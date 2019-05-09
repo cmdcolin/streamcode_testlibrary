@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@gmod/bbi": "^1.0.21",
+    "generic-filehandle": "^1.0.9"
+  }
+}
